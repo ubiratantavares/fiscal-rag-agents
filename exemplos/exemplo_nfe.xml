@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notaFiscal>
+  <emit>
+    <CNPJ>12345678000195</CNPJ>
+  </emit>
+  <dest>
+    <CNPJ>98765432000188</CNPJ>
+  </dest>
+  <det>
+    <prod>
+      <CFOP>5101</CFOP>
+      <NCM>10019010</NCM>
+    </prod>
+  </det>
+  <imposto>
+    <ICMS>
+      <ICMS00>
+        <CST>00</CST>
+        <vICMS>150.00</vICMS>
+      </ICMS00>
+    </ICMS>
+  </imposto>
+</notaFiscal>
